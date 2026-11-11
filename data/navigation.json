@@ -1,0 +1,146 @@
+[
+  {
+    "title": "עמוד הבית",
+    "url": "./"
+  },
+  {
+    "title": "כיתה י",
+    "children": [
+      {
+        "title": "פלטפורמר",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/פלטפורמר"
+      },
+      {
+        "title": "משחק כפתור אחד",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/משחק-כפתור-אחד"
+      },
+      {
+        "title": "משחקי קצב",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/משחקי-קצב"
+      },
+      {
+        "title": "Flappy Bird 2.0",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/flappy-bird-2-0"
+      },
+      {
+        "title": "Guitar Hero II",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/guitar-hero-ii"
+      },
+      {
+        "title": "Snail Bob II",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/snail-bob-ii"
+      },
+      {
+        "title": "Guitar Hero",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/guitar-hero"
+      },
+      {
+        "title": "Suprematism",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/suprematism"
+      },
+      {
+        "title": "משחק סוף שנה",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/משחק-סוף-שנה"
+      },
+      {
+        "title": "מחצית א",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-י/מחצית-א"
+      }
+    ]
+  },
+  {
+    "title": "כיתה יא",
+    "children": [
+      {
+        "title": "סדר וכאוס",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/סדר-וכאוס"
+      },
+      {
+        "title": "מטמורפוזות",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/מטמורפוזות"
+      },
+      {
+        "title": "פלאפי פלאפי",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/פלאפי-פלאפי"
+      },
+      {
+        "title": "משחקי ספורט",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/משחקי-ספורט"
+      },
+      {
+        "title": "Game Jam 2024",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/game-jam-2024"
+      },
+      {
+        "title": "עינו של האח הגדול",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/עינו-של-האח-הגדול"
+      },
+      {
+        "title": "משחק לשניים",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/משחק-לשניים"
+      },
+      {
+        "title": "isometric",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/isometric"
+      },
+      {
+        "title": "Game Jam 2022",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/game-jam-2022"
+      },
+      {
+        "title": "אנטיגונה",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/אנטיגונה"
+      },
+      {
+        "title": "משחקים רציניים",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/משחקים-רציניים"
+      },
+      {
+        "title": "נבדל נטמע",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/נבדל-נטמע"
+      }
+    ]
+  },
+  {
+    "title": "כיתה יב",
+    "children": [
+      {
+        "title": "פרויקטי גמר - מחזור ט",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יב/פרויקטי-גמר-מחזור-ט"
+      },
+      {
+        "title": "פרויקטי גמר - מחזור ח",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יב/פרויקטי-גמר-מחזור-ח"
+      },
+      {
+        "title": "global Game Jam",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יב/global-game-jam"
+      },
+      {
+        "title": "פרויקטי גמר - מחזור ז",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יב/פרויקטי-גמר-מחזור-ז"
+      }
+    ]
+  },
+  {
+    "title": "חומרי לימוד",
+    "children": [
+      {
+        "title": "תיכנות",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/חומרי-לימוד/תיכנות"
+      },
+      {
+        "title": "עיצוב למתכנתים",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/חומרי-לימוד/עיצוב-למתכנתים"
+      },
+      {
+        "title": "תיכנות ב-scratch",
+        "url": "https://sites.google.com/hadash-holon.org.il/arcade01/חומרי-לימוד/תיכנות-ב-scratch"
+      }
+    ]
+  },
+  {
+    "title": "תכנית לימודים",
+    "url": "https://sites.google.com/hadash-holon.org.il/arcade01/תכנית-לימודים"
+  }
+]
