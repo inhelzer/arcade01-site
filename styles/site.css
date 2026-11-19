@@ -88,3 +88,6 @@ a:focus-visible,button:focus-visible,summary:focus-visible { outline:3px solid #
  .year-description { margin-bottom: 20px; }
  .project-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px 18px; }
 }
+
+/* Fill the original responsive embed wrapper, including the shared Genially guide. */
+#project-content .w536ob { width: 100%; height: 100%; }

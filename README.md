@@ -22,3 +22,7 @@ GitHub Settings → Pages → Deploy from a branch → main → /(root). לאח�
 הושלם עמוד הבית בלבד. הכותרת הראשית, שמות השכבות, קישורי חומרי הלימוד ושמות הפרויקטים הם טקסט HTML נגיש. נוספו פסקת הסבר על המגמה, תיאורי תמונות, כתובת קנונית, פרטי שיתוף ו־`sitemap.xml` הכולל רק את עמוד הבית שכבר הועבר. את מפת האתר ניתן להגיש ב־Google Search Console לאחר אימות בעלות. הגדרות `robots.txt`, אם יידרשו, מנוהלות בשורש הדומיין `inhelzer.github.io`, ולא בתיקיית הפרויקט.
 
 אין קוד מעקב, הרשאות או תלות בסקריפטים של Google Sites. קובצי הגרפיקה הועתקו כפי שהוגשו באתר המפורסם; אין בכך טענה שהם קובצי המקור לעריכה. הגרפיקה המקורית נשמרה במאגר המדיה, גם כאשר כותרת שהייתה בתמונה הוחלפה בטקסט בעמוד.
+
+## Shared Guitar Hero tutorial
+
+All migrated Guitar Hero project pages should link to `guides/guitar-hero/`. The Genially resource is embedded once there: https://view.genial.ly/65bd671856150300140860ea. Keep this URL shared when migrating other editions of the project.
