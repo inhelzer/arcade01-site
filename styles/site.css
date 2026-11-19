@@ -64,8 +64,6 @@ a:focus-visible,button:focus-visible,summary:focus-visible { outline:3px solid #
 .project-grid { display: grid; grid-template-columns: repeat(6,minmax(0,1fr)); gap: 24px; align-items: start; }
 .project-card { min-width: 0; display: block; color: #333; text-decoration: none; text-align: center; }
 .project-image { display: block; width: 100%; aspect-ratio: 1; object-fit: contain; }
-.project-card h3 { margin: 10px 0 0; font: 600 17px/1.4 Assistant,Arial,sans-serif; overflow-wrap: anywhere; }
-.project-card:hover h3,.project-card:focus-visible h3 { text-decoration: underline; color: #b2343c; }
 .year-block { scroll-margin-top: 72px; }
 @media(max-width:900px) {
  .project-grid { grid-template-columns: repeat(4,minmax(0,1fr)); }
