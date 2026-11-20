@@ -105,6 +105,10 @@
     "title": "כיתה יב",
     "children": [
       {
+        "title": "Sheba Game Jam",
+        "url": "https://sheba-jam-school-showcase.inhelzer.chatgpt.site/utrecht/"
+      },
+      {
         "title": "פרויקטי גמר - מחזור ט",
         "url": "https://inhelzer.github.io/arcade01-site/grade-12/finals-9/"
       },
@@ -142,5 +146,22 @@
   {
     "title": "תכנית לימודים",
     "url": "https://inhelzer.github.io/arcade01-site/curriculum/"
+  },
+  {
+    "title": "קישורים נוספים",
+    "children": [
+      {
+        "title": "AltCtrl",
+        "url": "https://inhelzer.github.io/AltCtrl/"
+      },
+      {
+        "title": "עמוד המגמה ב־itch.io",
+        "url": "https://kampus-peres.itch.io/"
+      },
+      {
+        "title": "אתר בית הספר",
+        "url": "https://www.hadash-holon.org.il/"
+      }
+    ]
   }
 ]
