@@ -1,0 +1,40 @@
+{
+  "source": "https://sites.google.com/hadash-holon.org.il/arcade01/כיתה-יא/משחקי-ספורט",
+  "path": "grade-11/sports",
+  "images": [
+    {
+      "source": "https://sites.google.com/u/0/sitesv-images-rt/APXyLQdHUemKpEtCbk06f0rJ2dOA6YqZqq9sTR1y-Q1FgKJjzRk-MQplpFOgJbv5nB_yezWDk3JvxsnxZxRbTF7d67tjhciWqaccu4ohmBv213hC8qRLtKs6t0Bp9Jd0CyrQwCcJQf6l-TmXO69b1a_wlgmLErmnlaU2G7IiEqy_Ml1vSvGcjpTTrqUi9FtHYi61ROvTLT_GGlmOWN4Gn6jXHbFdCkpnkZgU6xhkW7Q=w1280",
+      "url": "https://raw.githubusercontent.com/inhelzer/arcade01-media/fa1f926df81467433889ce1436d4c824561030be/sports/sports-00.png"
+    },
+    {
+      "source": "https://sites.google.com/u/0/sitesv-images-rt/APXyLQcRj-zEZbIF8Y0ptY6TwMCczEpYqQJdoFyPD7MZp29M84OSbteRZGSpAs79mUYe1cOR2yF8pRCXm983MjOsqvOULEzlcdFOH5BEiw-UR99Fz9V6TfgZ71JHyt1-hJHehJJHwQAqjXBLFtqYuS7o2sZo9V13QFXYwk1sEiuZ1_p9Yrf4W1Ziqhp5a88wM86q3u9Wp22ec8oEoONTWBm4VfWdBu_BbQDTwHGDl2c_BF4=w1280",
+      "url": "https://raw.githubusercontent.com/inhelzer/arcade01-media/fa1f926df81467433889ce1436d4c824561030be/sports/sports-02.png"
+    },
+    {
+      "source": "https://sites.google.com/u/0/sitesv-images-rt/APXyLQcLycdRLtXZb_Lmri-_qbFepqzmHS55EdbPsPdqfe5SmbJnkrA4h7_04igcQj4o8qLZ6z_pEmbmVtbz9n_m05NfheK-3ml0n7NC-YmprWAazciKT8AO1Es0DFOaIoMyDR4SKq1nOsHX-kHAC5jmY0iM9MEq4Sy02raLEA1LuVXNA_ugL-0RlpDmTVKBmxqPQI7qQFEbmPRo-gN5aDBIKem74OrRZiIck60rUhTc1Jg=w1280",
+      "url": "https://raw.githubusercontent.com/inhelzer/arcade01-media/fa1f926df81467433889ce1436d4c824561030be/sports/sports-04.png"
+    },
+    {
+      "source": "https://sites.google.com/u/0/sitesv-images-rt/APXyLQd4tkqTsNGRGvFMl9_CFjot_fYGgl37DdqMg9h6RiX63qiv25b12Ef4qZxmjt32S-SJowbZJkLq71sISDGr-0zxEQ0QP1EzcAK_hPR8beCkI87Vo3LBDDUS8JvXvTxmqjVZMxcP5Y_l25YMvySyKJC8BE-RcMLgtNvlu6TLoNnO1OKyjlPBfOOih5ccnxTWP9vQ_2cPXq2bkvXwhsxs0QY8PchkzqZzXUBqwhoV=w1280",
+      "url": "https://raw.githubusercontent.com/inhelzer/arcade01-media/fa1f926df81467433889ce1436d4c824561030be/sports/sports-05.png"
+    },
+    {
+      "source": "https://sites.google.com/u/0/sitesv-images-rt/APXyLQes9VL1gMYPB3UGTyW-eW_h1xySIEZS2cOQ4gTRQKUyGsxw_isAdNFU1DwQCN6CDHxFss-PxIvgXtzFpnpzylugK6B1EdiDzhHl5eVHv6VHnp2FM_0bd_EFU5en5E4sehE59xnGCBCh-DCWzrX-ei_bpSO_D0osSxtu1g0Vzz67U2UZj3RE12DXxYVCqqywifLDR3orLd9nqCgXEQuXivk20LdL2aunbbWQXFex=w1280",
+      "url": "https://raw.githubusercontent.com/inhelzer/arcade01-media/fa1f926df81467433889ce1436d4c824561030be/sports/sports-06.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "/hadash-holon.org.il/arcade01/עמוד-הבית?authuser=0",
+      "url": "../../"
+    }
+  ],
+  "embeds": [
+    {
+      "src": "https://itch.io/embed/3616722",
+      "url": "https://kampus-peres.itch.io/sport-games",
+      "title": "משחקי ספורט — מצגת",
+      "type": "iframe"
+    }
+  ]
+}
