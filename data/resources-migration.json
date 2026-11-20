@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "coding",
+    "title": "חומרי לימוד",
+    "source": "תיכנות",
+    "pageId": "P003",
+    "path": "resources/coding",
+    "assets": 2,
+    "embeds": [
+      {
+        "src": "https://view.genial.ly/626836225433160012132119",
+        "url": "https://view.genial.ly/626836225433160012132119",
+        "title": "חומרי לימוד — מצגת",
+        "type": "iframe"
+      }
+    ]
+  },
+  {
+    "slug": "design",
+    "title": "כלי עיצוב למתכנתים",
+    "source": "עיצוב-למתכנתים",
+    "pageId": "P002",
+    "path": "resources/design",
+    "assets": 0,
+    "embeds": [
+      {
+        "src": "https://view.genial.ly/64d78a2ad7e47900113d0625",
+        "url": "https://view.genial.ly/64d78a2ad7e47900113d0625",
+        "title": "עיצוב למתכנתים",
+        "type": "iframe"
+      }
+    ]
+  }
+]
