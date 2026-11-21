@@ -1,0 +1,339 @@
+{
+  "updated": "2026-11-21",
+  "games": [
+    {
+      "src": "https://itch.io/embed/4627049",
+      "url": "https://matzkinel.itch.io/above-the-clouds",
+      "originalTitle": "Above The Clouds by matzkinel",
+      "page": "grade-10/platformer/index.html",
+      "image": "https://img.itch.zone/aW1nLzI3NTcyNTA3LnBuZw==/original/qcB6jU.png",
+      "playable": true,
+      "title": "Above The Clouds by matzkinel",
+      "mediaPath": "platformer/itch-cards/4627049.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/platformer/itch-cards/4627049.png"
+    },
+    {
+      "src": "https://itch.io/embed/4623862",
+      "url": "https://ariel-siklay.itch.io/fanergy",
+      "originalTitle": "FANERGY by ariel siklay",
+      "page": "grade-10/platformer/index.html",
+      "description": "This game is about a slime ball that you need to move around the levels with a fans.",
+      "image": "https://img.itch.zone/aW1nLzI3NTUyMjkyLnBuZw==/original/StI%2BI%2F.png",
+      "playable": true,
+      "title": "FANERGY by ariel siklay",
+      "mediaPath": "platformer/itch-cards/4623862.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/platformer/itch-cards/4623862.png"
+    },
+    {
+      "src": "https://itch.io/embed/4628007",
+      "url": "https://mrpanda-12.itch.io/mrpanda",
+      "originalTitle": "MRpanda by MRpanda_12",
+      "page": "grade-10/platformer/index.html",
+      "playable": false,
+      "title": "MRpanda by MRpanda_12"
+    },
+    {
+      "src": "https://itch.io/embed/4628413",
+      "url": "https://yonatan-k.itch.io/ooga-booga-kill",
+      "originalTitle": "Ooga Booga Kill by yonatan k",
+      "page": "grade-10/platformer/index.html",
+      "playable": true,
+      "title": "Ooga Booga Kill by yonatan k"
+    },
+    {
+      "src": "https://itch.io/embed/4651167",
+      "url": "https://hareltid.itch.io/pathoftheinfected",
+      "originalTitle": "Path Of The Infected by hareltid",
+      "page": "grade-10/platformer/index.html",
+      "description": "It's a game for school blown out of proportion in the code which you bearly notice whatsoever",
+      "image": "https://img.itch.zone/aW1nLzI3ODA3NTMwLnBuZw==/original/j50hu3.png",
+      "playable": false,
+      "title": "Path Of The Infected by hareltid",
+      "mediaPath": "platformer/itch-cards/4651167.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/platformer/itch-cards/4651167.png"
+    },
+    {
+      "src": "https://itch.io/embed/4622372",
+      "url": "https://jlc0.itch.io/dead-verdic",
+      "originalTitle": "Dead Verdict by JLC0",
+      "page": "grade-10/platformer/index.html",
+      "image": "https://img.itch.zone/aW1nLzI3NTQyNzMwLnBuZw==/original/sRvGE9.png",
+      "playable": true,
+      "title": "Dead Verdict by JLC0",
+      "mediaPath": "platformer/itch-cards/4622372.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/platformer/itch-cards/4622372.png"
+    },
+    {
+      "src": "https://itch.io/embed/4607442",
+      "url": "https://noaromani.itch.io/fire-and-ashes",
+      "originalTitle": "fire and ashes by NoaRomani",
+      "page": "grade-10/platformer/index.html",
+      "image": "https://img.itch.zone/aW1nLzI3NDUwMTE3LnBuZw==/original/PdVY81.png",
+      "playable": true,
+      "title": "fire and ashes by NoaRomani",
+      "mediaPath": "platformer/itch-cards/4607442.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/platformer/itch-cards/4607442.png"
+    },
+    {
+      "src": "https://itch.io/embed/3247994",
+      "url": "https://kfiryahav9.itch.io/jaws",
+      "originalTitle": "JAWS by kfiryahav9",
+      "page": "grade-10/flappy-bird-2/index.html",
+      "image": "https://img.itch.zone/aW1nLzE5NDA1MDA0LnBuZw==/original/Dn9sPx.png",
+      "playable": true,
+      "title": "JAWS by kfiryahav9",
+      "mediaPath": "flappy-bird-2/itch-cards/3247994.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/flappy-bird-2/itch-cards/3247994.png"
+    },
+    {
+      "src": "https://itch.io/embed/3607659",
+      "url": "https://yahav080.itch.io/droprush-yahav-hakshorian",
+      "originalTitle": "DropRush - Yahav Hakshorian by yahav080",
+      "page": "grade-10/rhythm/index.html",
+      "image": "https://img.itch.zone/aW1nLzIxNDc1NzAwLnBuZw==/original/EMM3iZ.png",
+      "playable": false,
+      "title": "DropRush - Yahav Hakshorian by yahav080",
+      "mediaPath": "rhythm/itch-cards/3607659.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/rhythm/itch-cards/3607659.png"
+    },
+    {
+      "src": "https://itch.io/embed/3607858",
+      "url": "https://maya-shemer.itch.io/color-click",
+      "originalTitle": "Color Click by maya shemer",
+      "page": "grade-10/rhythm/index.html",
+      "image": "https://img.itch.zone/aW1nLzIxNDc3NTg5LmpwZWc=/original/S66OrW.jpeg",
+      "playable": false,
+      "title": "Color Click by maya shemer",
+      "mediaPath": "rhythm/itch-cards/3607858.jpeg",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/rhythm/itch-cards/3607858.jpeg"
+    },
+    {
+      "src": "https://itch.io/embed/3590989",
+      "url": "https://yarinkirshinboim.itch.io/star-music-game",
+      "originalTitle": "Star music game! by yarin.kirshinboim",
+      "page": "grade-10/rhythm/index.html",
+      "description": "very fun game with amazing music",
+      "image": "https://img.itch.zone/aW1nLzIxMzc0NDY0LnBuZw==/original/P2QaPa.png",
+      "playable": false,
+      "title": "Star music game! by yarin.kirshinboim",
+      "mediaPath": "rhythm/itch-cards/3590989.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/rhythm/itch-cards/3590989.png"
+    },
+    {
+      "src": "https://itch.io/embed/3607655",
+      "url": "https://raziel-b-o.itch.io/shield-down",
+      "originalTitle": "Shield Down by Raziel B-O",
+      "page": "grade-10/rhythm/index.html",
+      "playable": false,
+      "title": "Shield Down by Raziel B-O"
+    },
+    {
+      "src": "https://itch.io/embed/3608125",
+      "url": "https://games4-fun.itch.io/punchthemusic",
+      "originalTitle": "PunchTheMusic by Games4_Fun",
+      "page": "grade-10/rhythm/index.html",
+      "description": "A Highschool project (pls no hate)",
+      "image": "https://img.itch.zone/aW1nLzIxNDc4MjAzLnBuZw==/original/2lpuMH.png",
+      "playable": false,
+      "title": "PunchTheMusic by Games4_Fun",
+      "mediaPath": "rhythm/itch-cards/3608125.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/rhythm/itch-cards/3608125.png"
+    },
+    {
+      "src": "https://itch.io/embed/3610012",
+      "url": "https://kfiryahav9.itch.io/beatrider",
+      "originalTitle": "BEAT·RIDER by kfiryahav9",
+      "page": "grade-10/rhythm/index.html",
+      "image": "https://img.itch.zone/aW1nLzIxNDg5NDAxLnBuZw==/original/HI%2BVEZ.png",
+      "playable": false,
+      "title": "BEAT·RIDER by kfiryahav9",
+      "mediaPath": "rhythm/itch-cards/3610012.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/rhythm/itch-cards/3610012.png"
+    },
+    {
+      "src": "https://itch.io/embed/3609165",
+      "url": "https://kampus-peres.itch.io/guitar-hero",
+      "originalTitle": "Guitar Hero by Campus Peres High School",
+      "page": "grade-10/rhythm/index.html",
+      "description": "by OdelKoriat",
+      "image": "https://img.itch.zone/aW1nLzIxNDg0MDE2LnBuZw==/original/PLwXI4.png",
+      "playable": false,
+      "title": "Guitar Hero by Campus Peres High School",
+      "mediaPath": "rhythm/itch-cards/3609165.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/rhythm/itch-cards/3609165.png"
+    },
+    {
+      "src": "https://itch.io/embed/3616722",
+      "url": "https://kampus-peres.itch.io/sport-games",
+      "originalTitle": "משחקי ספורט — מצגת",
+      "page": "grade-11/sports/index.html",
+      "image": "https://img.itch.zone/aW1nLzIxNTU3NzI4LnBuZw==/original/bIQKXb.png",
+      "playable": false,
+      "title": "Sport Games by Campus Peres High School",
+      "mediaPath": "sports/itch-cards/3616722.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/sports/itch-cards/3616722.png"
+    },
+    {
+      "src": "https://itch.io/embed/3608806",
+      "url": "https://kampus-peres.itch.io/isometric",
+      "originalTitle": "איסומטריק — משחק",
+      "page": "grade-11/isometric/index.html",
+      "image": "https://img.itch.zone/aW1nLzIxNDgyNjQ4LmpwZw==/original/aA%2Bp7N.jpg",
+      "playable": true,
+      "title": "Isometric by Campus Peres High School",
+      "mediaPath": "isometric/itch-cards/3608806.jpg",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/isometric/itch-cards/3608806.jpg"
+    },
+    {
+      "src": "https://itch.io/embed/4109009",
+      "url": "https://games4-fun.itch.io/123d-evulution",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "image": "https://img.itch.zone/aW1nLzI0NDg3NDQwLnBuZw==/original/o930Dq.png",
+      "playable": false,
+      "title": "1.2.3D evulution by Games4_Fun",
+      "mediaPath": "metamorphoses/itch-cards/4109009.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/metamorphoses/itch-cards/4109009.png"
+    },
+    {
+      "src": "https://itch.io/embed/4109036",
+      "url": "https://idoziman.itch.io/ninjapex",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "image": "https://img.itch.zone/aW1nLzI0NTUyMjMwLnBuZw==/original/hnchL0.png",
+      "playable": true,
+      "title": "Ninjapex by Idoziman",
+      "mediaPath": "metamorphoses/itch-cards/4109036.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/metamorphoses/itch-cards/4109036.png"
+    },
+    {
+      "src": "https://itch.io/embed/4118108",
+      "url": "https://raziel-b-o.itch.io/orange-man-game",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "playable": false,
+      "title": "Orange Man Game by Raziel B-O"
+    },
+    {
+      "src": "https://itch.io/embed/4168742",
+      "url": "https://yahav080.itch.io/charlie-in-the-multiverse",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "image": "https://img.itch.zone/aW1nLzI0ODQ1ODMwLnBuZw==/original/Tv3TWa.png",
+      "playable": true,
+      "title": "Charlie In The Multiverse by yahav080",
+      "mediaPath": "metamorphoses/itch-cards/4168742.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/metamorphoses/itch-cards/4168742.png"
+    },
+    {
+      "src": "https://itch.io/embed/4108946",
+      "url": "https://maya-shemer.itch.io/cat-quest",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "image": "https://img.itch.zone/aW1nLzI0NDg3MTg3LnBuZw==/original/u29ddG.png",
+      "playable": false,
+      "title": "Cat Quest by maya shemer",
+      "mediaPath": "metamorphoses/itch-cards/4108946.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/metamorphoses/itch-cards/4108946.png"
+    },
+    {
+      "src": "https://itch.io/embed/4120035",
+      "url": "https://kfiryahav9.itch.io/bot-runner",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "image": "https://img.itch.zone/aW1nLzI0NzUwMDczLnBuZw==/original/N9fybF.png",
+      "playable": false,
+      "title": "Bot-Runner by kfiryahav9",
+      "mediaPath": "metamorphoses/itch-cards/4120035.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/metamorphoses/itch-cards/4120035.png"
+    },
+    {
+      "src": "https://itch.io/embed/4099494",
+      "url": "https://yarinkirshinboim.itch.io/rabbit-adventure",
+      "originalTitle": "מטמורפוזות — מצגת",
+      "page": "grade-11/metamorphoses/index.html",
+      "image": "https://img.itch.zone/aW1nLzI0NDMzNzc2LnBuZw==/original/JhLzd%2B.png",
+      "playable": false,
+      "title": "Rabbit Adventure! by yarin.kirshinboim",
+      "mediaPath": "metamorphoses/itch-cards/4099494.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/metamorphoses/itch-cards/4099494.png"
+    },
+    {
+      "src": "https://itch.io/embed/4685481",
+      "url": "https://yahav080.itch.io/rift-of-the-flies",
+      "originalTitle": "סדר וכאוס — מצגת",
+      "page": "grade-11/order-chaos/index.html",
+      "image": "https://img.itch.zone/aW1nLzI3OTIyNDQ2LnBuZw==/original/7i5H8N.png",
+      "playable": false,
+      "title": "Rift of the Flies by yahav080",
+      "mediaPath": "order-chaos/itch-cards/4685481.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/d3bc3433ec4ba9c3efcc0c4e19a07df4c84bdb71/order-chaos/itch-cards/4685481.png"
+    },
+    {
+      "src": "https://itch.io/embed/4170640",
+      "url": "https://jlc0.itch.io/deep-diver",
+      "title": "Deep Diver by JLC0",
+      "image": "https://img.itch.zone/aW1nLzI0ODU3MzcxLnBuZw==/original/FHAcGD.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/63f82e9770b4dc68af12e467827ab0df66d96921/one-button/itch-cards/4170640.png",
+      "page": "grade-10/one-button/index.html",
+      "playable": true,
+      "mediaPath": "one-button/itch-cards/4170640.png"
+    },
+    {
+      "src": "https://itch.io/embed/4179011",
+      "url": "https://matzkinel.itch.io/slicendice",
+      "title": "Slice & Dice by matzkinel",
+      "image": "https://img.itch.zone/aW1nLzI0OTA3MjQ5LnBuZw==/original/2QZQrk.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/63f82e9770b4dc68af12e467827ab0df66d96921/one-button/itch-cards/4179011.png",
+      "page": "grade-10/one-button/index.html",
+      "playable": true,
+      "mediaPath": "one-button/itch-cards/4179011.png"
+    },
+    {
+      "src": "https://itch.io/embed/4178701",
+      "url": "https://yair67.itch.io/bubble-head",
+      "title": "bubble head by YAIR67",
+      "image": "https://img.itch.zone/aW1nLzI3NTk2MTg2LnBuZw==/original/vLXMd1.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/63f82e9770b4dc68af12e467827ab0df66d96921/one-button/itch-cards/4178701.png",
+      "page": "grade-10/one-button/index.html",
+      "playable": false,
+      "mediaPath": "one-button/itch-cards/4178701.png"
+    },
+    {
+      "src": "https://itch.io/embed/4178672",
+      "url": "https://rogue4172.itch.io/1-button-dungeon-crawler",
+      "title": "1 button dungeon crawler by rogue4172",
+      "page": "grade-10/one-button/index.html",
+      "playable": true
+    },
+    {
+      "src": "https://itch.io/embed/4097296",
+      "url": "https://hareltid.itch.io/stretchedup",
+      "title": "StretchedUp by hareltid",
+      "description": "A cute, energetic slime is in need to get to the stars. Help him! (He's cute, I promise)",
+      "image": "https://img.itch.zone/aW1nLzI0OTE0ODY1LnBuZw==/original/MlubXi.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/63f82e9770b4dc68af12e467827ab0df66d96921/one-button/itch-cards/4097296.png",
+      "page": "grade-10/one-button/index.html",
+      "playable": true,
+      "mediaPath": "one-button/itch-cards/4097296.png"
+    },
+    {
+      "src": "https://itch.io/embed/4180422",
+      "url": "https://noaromani.itch.io/donats",
+      "title": "Super Donuts by NoaRomani",
+      "image": "https://img.itch.zone/aW1nLzI0OTE5NjUzLnBuZw==/original/v2z7zI.png",
+      "localCover": "https://raw.githubusercontent.com/inhelzer/arcade01-media/63f82e9770b4dc68af12e467827ab0df66d96921/one-button/itch-cards/4180422.png",
+      "page": "grade-10/one-button/index.html",
+      "playable": true,
+      "mediaPath": "one-button/itch-cards/4180422.png"
+    },
+    {
+      "src": "https://itch.io/embed/4179322",
+      "url": "https://ariel-siklay.itch.io/pinball-maddness",
+      "title": "pinball maddness by ariel siklay",
+      "description": "Pinball",
+      "page": "grade-10/one-button/index.html",
+      "playable": true
+    }
+  ]
+}
