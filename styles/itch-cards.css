@@ -1,0 +1,12 @@
+/* Locally rendered links: no third-party embed requests. */
+.itch-card{box-sizing:border-box;display:flex;width:100%;min-height:167px;background:#fff;border:1px solid #ddd;color:#222!important;text-decoration:none!important;font-family:Arial,sans-serif;text-align:left;line-height:1.25;overflow:hidden}
+.itch-card-cover{flex:0 0 34%;display:flex;align-items:center;justify-content:center;padding:10px;border-right:1px solid #ddd;box-sizing:border-box}
+.itch-card-cover img{display:block;width:100%;max-height:150px;object-fit:contain}
+.itch-card-body{position:relative;display:flex;flex:1;min-width:0;flex-direction:column;align-items:flex-start;padding:12px 12px 27px;box-sizing:border-box}
+.itch-card-title{font-size:24px;line-height:1.12;margin:0 0 5px;overflow-wrap:anywhere}
+.itch-card-author{font-size:14px;color:#888}.itch-card-author b{color:#555}
+.itch-card-description{max-width:100%;font-size:14px;color:#555;margin:7px 0 0;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+.itch-card-button{display:inline-block;font-size:14px;font-weight:bold;color:#fff;background:#fa5c5c;border:1px solid #e64949;border-radius:3px;padding:9px 11px;margin-top:12px}
+.itch-card-brand{position:absolute;bottom:5px;right:7px;font-size:18px;font-weight:bold;color:#d2d2d2;letter-spacing:-1px}
+.itch-card:hover .itch-card-button{background:#e84c4c}.itch-card:focus-visible{outline:3px solid #222;outline-offset:3px}
+@media(max-width:480px){.itch-card{min-height:155px}.itch-card-title{font-size:20px}.itch-card-cover{padding:7px}.itch-card-body{padding:10px 10px 26px}.itch-card-button{font-size:14px;padding:8px}.itch-card-description{font-size:14px}}
