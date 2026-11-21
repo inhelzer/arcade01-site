@@ -99,4 +99,4 @@ a:focus-visible,button:focus-visible,summary:focus-visible { outline:3px solid #
 @media(max-width:600px){.project-grid{gap:24px 18px}.project-grid>.project-card{flex-basis:calc((100% - 18px)/2)}}
 
 /* Align the school link caption with the adjacent toolbox captions. */
-.resource-links .school-resource{transform:translateY(-12px)}
+.resource-links .school-resource .resource-caption{transform:translateY(-12px)}
